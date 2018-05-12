@@ -1,0 +1,42 @@
+_repo: Studies-of-Christianity--Or-Timely-Thoughts-for-Religious-Thinkers_40387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, James
+    birthdate: 1805
+    deathdate: 1900
+    gutenberg_agent_id: '40587'
+    url: http://www.gutenberg.org/2009/agents/40587
+    wikipedia: http://en.wikipedia.org/wiki/James_Martineau
+  editor:
+    agent_name: Alger, William Rounseville
+    alias: Alger, William R.
+    birthdate: 1822
+    deathdate: 1905
+    gutenberg_agent_id: '8457'
+    url: http://www.gutenberg.org/2009/agents/8457
+description: ''
+gutenberg_issued: '2012-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- 19th century'
+- !lcc 'BR'
+- !lcsh 'Christianity'
+tableOfContents: 'Introductory thoughts, from Mr. Martineau''s writings -- Distinctive
+  types of Christianity -- Christianity without priest and without ritual -- Inconsistency
+  of the scheme of vicarious redemption -- Mediatorial religion -- Five points of
+  Christian faith -- Creed and heresies of early Christianity -- The creed of Christendom
+  -- The ethics of Christendom -- The restoration of belief -- One gospel in many
+  dialects -- St. Paul and his modern students -- Sin: what it is, what it is not
+  -- The duties of Christians in an age of controversy.'
+title: Studies of Christianity; Or, Timely Thoughts for Religious Thinkers
+url: http://www.gutenberg.org/ebooks/40387
